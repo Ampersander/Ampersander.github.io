@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a67b9f5d9602bda19a4e268edecc6142",
+    "revision": "60de63efa221a8fb512e33babe8c4efa",
     "url": "/index.html"
   },
   {
-    "revision": "5cc23f84bec425f93c65",
-    "url": "/static/css/main.04e6b05a.chunk.css"
+    "revision": "0fb882e70e82afc2314e",
+    "url": "/static/css/main.4537bbe4.chunk.css"
   },
   {
     "revision": "7b20cbac5fcbd9d89bf1",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.79e87932.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "5cc23f84bec425f93c65",
-    "url": "/static/js/main.c259beb7.chunk.js"
+    "revision": "0fb882e70e82afc2314e",
+    "url": "/static/js/main.db74eb51.chunk.js"
   },
   {
     "revision": "efe25b4b8d1f7af9da4b",
@@ -40,10 +40,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/Observation_stage.a7cccd23.pdf"
   },
   {
-    "revision": "114b004c94ded75a66c3c0796cee91c7",
-    "url": "/static/media/baertromain.114b004c.jpg"
-  },
-  {
     "revision": "57a759f3e83591f0b66da1490be198a7",
     "url": "/static/media/fontawesome-webfont.57a759f3.svg"
   },
@@ -62,6 +58,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "ec5a96de9182f4f9f28a04bd5e029e30",
     "url": "/static/media/fontawesome-webfont.ec5a96de.eot"
+  },
+  {
+    "revision": "befedc105855a57b8d757b83a4d19abd",
+    "url": "/static/media/profil.befedc10.svg"
   },
   {
     "revision": "692a887f11c2e2ed9cd71624666c155d",
