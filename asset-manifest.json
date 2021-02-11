@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.c935e372.chunk.css",
+    "main.css": "/static/css/main.1f1f3636.chunk.css",
     "main.js": "/static/js/main.b1c521c6.chunk.js",
     "main.js.map": "/static/js/main.b1c521c6.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.6b3488d1.js",
@@ -8,9 +8,9 @@
     "static/js/2.13967526.chunk.js": "/static/js/2.13967526.chunk.js",
     "static/js/2.13967526.chunk.js.map": "/static/js/2.13967526.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.fc27c045fbd2959de927d4afb6fff7a3.js": "/precache-manifest.fc27c045fbd2959de927d4afb6fff7a3.js",
+    "precache-manifest.9aeb9aa80fb20ecadf14423731135d9d.js": "/precache-manifest.9aeb9aa80fb20ecadf14423731135d9d.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.c935e372.chunk.css.map": "/static/css/main.c935e372.chunk.css.map",
+    "static/css/main.1f1f3636.chunk.css.map": "/static/css/main.1f1f3636.chunk.css.map",
     "static/js/2.13967526.chunk.js.LICENSE.txt": "/static/js/2.13967526.chunk.js.LICENSE.txt",
     "static/media/DUT_INFO_2017_2019.pdf": "/static/media/DUT_INFO_2017_2019.da1cf39a.pdf",
     "static/media/L3_INFO_2019-2020.pdf": "/static/media/L3_INFO_2019-2020.a851b1bc.pdf",
@@ -24,7 +24,7 @@
   "entrypoints": [
     "static/js/runtime-main.6b3488d1.js",
     "static/js/2.13967526.chunk.js",
-    "static/css/main.c935e372.chunk.css",
+    "static/css/main.1f1f3636.chunk.css",
     "static/js/main.b1c521c6.chunk.js"
   ]
 }
